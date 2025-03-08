@@ -11,7 +11,7 @@ def factorial(n):
 def main():
     # Get user input
     try:
-        num = int(input("Enter a number to find its factorial: "))
+        num = int(input("Enter a number to find it's factorial: "))
         
         if num < 0:
             print("Factorial is not defined for negative numbers.")
